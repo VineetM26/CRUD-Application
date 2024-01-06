@@ -1,3 +1,7 @@
-.navbar {
-    
+.container-fluid {
+    background-color: blue;
+}
+
+.navbar-nav a {
+    color: white;
 }
